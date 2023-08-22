@@ -1,6 +1,4 @@
 ### Hi there 👋
-![ANPAN official Logo](https://github.com/anpn2023/anpn2023/assets/141376968/5a63c933-1491-4919-b861-cb1603880fc7)
-
 
 About the ANPAN
 
